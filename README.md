@@ -1,6 +1,6 @@
 # World-Bank-Data-Analysis-in-Python
 
-This report analyzes the World Bank Project Performance Ratings dataset, emphasizing project success and performance trends. It aims to identify opportunities for enhancing project efficiency and quality.
+This report analyzes the World Bank Project Performance Ratings dataset, emphasizing project success and performance trends. It aims to identify opportunities for enhancing project efficiency and quality. File ISM 4211 - FINAL PROJECT (1).pdf includes a presentation of the findings of the research, and File ISM4211_Group_Project.ipynb includes the code and visualizations used made to obtain them.
 
 Purpose 
 
