@@ -42,16 +42,29 @@ To enhance World Bank project outcomes, focus on regional over continental proje
 References 
 
 Sullivan, D. (2015). NoSQL for Mere Mortals. Addison-Wesley Professional.
+
 The World Bank. (n.d.). https://www.worldbank.org/en/about/what-we-do.prin
+
 The World Bank. (2023, October 5). Africa Overview. https://www.worldbank.org/en/region/afr/overview
+
 Pandas Development Team. (2008). pandas: Python Data Analysis Library. https://pandas.pydata.org/
+
 Oliphant, T. (2006). NumPy. https://numpy.org/
+
 Hunter, J. D. (2003). Pyplot API. https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html
+
 Waskom, M. (2014). Seaborn. https://seaborn.pydata.org/
+
 GeoPandas Development Team. (2013). GeoPandas. https://geopandas.org/en/stable/
+
 SciPy Community. (2001). SciPy Stats. https://docs.scipy.org/doc/scipy/reference/stats.html
+
 Lopuhin, K. (2010). Tabulate. https://pypi.org/project/tabulate/
+
 Pandas Development Team. (2008). DataFrame.replace. https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.replace.html
+
 Hunter, J. D. (2003). Named colors. https://matplotlib.org/stable/gallery/color/named_colors.html
+
 Practical Python for Data Science Team. (n.d.). Seaborn Palette. https://www.practicalpythonfordatascience.com/ap_seaborn_palette
+
 Stack Overflow Community. (2011, August 16). How to set the label's size on a pie chart. https://stackoverflow.com/questions/7082345/how-to-set-the-labels-size-on-a-pie-chart
