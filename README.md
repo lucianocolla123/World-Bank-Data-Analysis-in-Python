@@ -40,6 +40,7 @@ Recommendations
 To enhance World Bank project outcomes, focus on regional over continental projects in Africa and tailor strategies for specific 'Global Practice' areas. Invest in high-quality Monitoring and Evaluation (M&E) practices throughout the project lifecycle. Prioritize the 'IDA' lending group for its consistent performance and investigate variability in the 'IBRD' group to optimize project performance and strategic planning.
 
 References 
+
 Sullivan, D. (2015). NoSQL for Mere Mortals. Addison-Wesley Professional.
 The World Bank. (n.d.). https://www.worldbank.org/en/about/what-we-do.prin
 The World Bank. (2023, October 5). Africa Overview. https://www.worldbank.org/en/region/afr/overview
